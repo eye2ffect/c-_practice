@@ -12,7 +12,7 @@ int main()
 
 	//std::cout << "1";
 	//a=a+1 ;   x= x+1 
-
+	//startNum = startNum +2 ; 
 	for (int x = 1; x <= a++; x++)
 	{
 
