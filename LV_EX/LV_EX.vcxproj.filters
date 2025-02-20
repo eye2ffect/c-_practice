@@ -34,6 +34,18 @@
     <Filter Include="소스 파일\review\L4">
       <UniqueIdentifier>{3d11d5dd-c910-49fa-817d-b91a82359287}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LV5">
+      <UniqueIdentifier>{2b5ee81c-66f2-4c2c-9e39-d62801e228ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV6">
+      <UniqueIdentifier>{862d5eeb-9b27-4376-9e5e-499f037f21e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\review\L5">
+      <UniqueIdentifier>{f030552b-77bb-45dd-ae4a-7dfa662f7783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\review\L6">
+      <UniqueIdentifier>{170c2f2b-9cf7-4b6e-8c81-979b4f215bea}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LV2-1.cpp">
@@ -257,6 +269,42 @@
     </ClCompile>
     <ClCompile Include="R4-9.cpp">
       <Filter>소스 파일\review\L4</Filter>
+    </ClCompile>
+    <ClCompile Include="5-1.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-3.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-2%28금재시도%29.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-4.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-5.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-6.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-8.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-7%28다시%29.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-9.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-10.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-11.%28재시도%29.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-12.cpp">
+      <Filter>소스 파일\LV5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
