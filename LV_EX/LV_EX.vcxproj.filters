@@ -312,5 +312,47 @@
     <ClCompile Include="R5-1.cpp">
       <Filter>소스 파일\review\L5</Filter>
     </ClCompile>
+    <ClCompile Include="R5-2.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-3%28금욜다시%29.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-4.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-5.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-6.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-7.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-8.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-9.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-10.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-11.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-12%28보충%29.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-13.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-14.cpp">
+      <Filter>소스 파일\review\L5</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-1.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

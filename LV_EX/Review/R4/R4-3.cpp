@@ -3,14 +3,20 @@
 int main()
 {
 
-	int arr[5] = { 1,2,3,4,5 };
+	int arr[5];
 
 	int a = 0;
-	std::cin >>arr[a];
+	std::cin >>a;
 
-	for (int i = 1; i <= 5; i++)
+	for (int i = 0; i < 5; i++)
 	{
-		std::cout << arr[a];
+		arr[i] = a; 
+	}
+
+
+	for (int i = 0; i < 5; i++)
+	{
+		std::cout << arr[i];
 
 	}
 
