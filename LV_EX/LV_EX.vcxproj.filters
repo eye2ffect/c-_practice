@@ -303,8 +303,14 @@
     <ClCompile Include="5-11.%28재시도%29.cpp">
       <Filter>소스 파일\LV5</Filter>
     </ClCompile>
-    <ClCompile Include="5-12.cpp">
+    <ClCompile Include="5-12%28금욜 재시도%29.cpp">
       <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="5-13.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="R5-1.cpp">
+      <Filter>소스 파일\review\L5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
