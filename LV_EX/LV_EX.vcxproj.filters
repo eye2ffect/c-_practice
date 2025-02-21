@@ -354,5 +354,41 @@
     <ClCompile Include="LV6-1.cpp">
       <Filter>소스 파일\LV6</Filter>
     </ClCompile>
+    <ClCompile Include="LV6-2.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-3.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-4.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-5.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-6.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-7.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-8.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-9.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-10.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-11.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-12.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
+    <ClCompile Include="LV6-13.cpp">
+      <Filter>소스 파일\LV6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
