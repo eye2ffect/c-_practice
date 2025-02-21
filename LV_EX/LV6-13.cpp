@@ -9,9 +9,16 @@ int main()
 
 	std::cin >> a >> b >> c;
 
-	for (int x = a; x <= b; x++)
+	for (int i = 1; i <= c; i++)
 	{
-		std::cout << x;
+
+		for (int x = a; x <= b; x++)
+		{
+			std::cout << " " << x;
+	
+		}
+		
+		std::cout << std::endl;
 	}
 
 	return 0;
