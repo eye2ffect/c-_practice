@@ -411,5 +411,17 @@
     <ClCompile Include="R6-7.cpp">
       <Filter>소스 파일\review\L6</Filter>
     </ClCompile>
+    <ClCompile Include="R6-8.cpp">
+      <Filter>소스 파일\review\L6</Filter>
+    </ClCompile>
+    <ClCompile Include="R6-9.cpp">
+      <Filter>소스 파일\review\L6</Filter>
+    </ClCompile>
+    <ClCompile Include="R6-10.cpp">
+      <Filter>소스 파일\review\L6</Filter>
+    </ClCompile>
+    <ClCompile Include="R6-11.cpp">
+      <Filter>소스 파일\review\L6</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

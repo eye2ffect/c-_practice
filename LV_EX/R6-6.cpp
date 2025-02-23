@@ -1,7 +1,7 @@
 #include<iostream>
 
 int x;
-char Q;
+char Q  = 0;
 
 int main()
 
@@ -11,10 +11,11 @@ int main()
 	for (int i = 0; i < 5; i++)
 	{
 		std::cin >> Q;
-
+		ch[i]=+Q;
 	}
+	
 
-	int count = 0;
+	int count= 0 ;
 
 	for (x = 0; x < 5; x++)
 
@@ -25,14 +26,20 @@ int main()
 		{
 
 			count++;
-
+			
 		}
 
 	}
-
 	
-
-
+	if ( Q>= '0' && Q <= '9')
+	{
+		std::cout << "숫자" << count << "개발견";
+	}
+	
+	else
+	{
+		std::cout << "숫자 미발견";
+	}
 
 
 
