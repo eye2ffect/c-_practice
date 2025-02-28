@@ -22,7 +22,7 @@ int main()
 	for (int i = 0; i < 5; i++) {
 		std::cout <<(char) arr[i];//증가
 	}
-	
+	std::cout << std::endl;
 	for (int i = 0; i < 5; i++) {
 		std::cout << (char)arr1[i];//감소
 	}

@@ -46,6 +46,12 @@
     <Filter Include="소스 파일\review\L6">
       <UniqueIdentifier>{170c2f2b-9cf7-4b6e-8c81-979b4f215bea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\LV7">
+      <UniqueIdentifier>{452a3058-4dce-46f5-8f50-dadcda8d4b40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\L7">
+      <UniqueIdentifier>{428caa72-5b7c-4961-adb3-abaeb303b0fe}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LV2-1.cpp">
@@ -300,9 +306,6 @@
     <ClCompile Include="5-10.cpp">
       <Filter>소스 파일\LV5</Filter>
     </ClCompile>
-    <ClCompile Include="5-11.%28재시도%29.cpp">
-      <Filter>소스 파일\LV5</Filter>
-    </ClCompile>
     <ClCompile Include="5-12%28금욜 재시도%29.cpp">
       <Filter>소스 파일\LV5</Filter>
     </ClCompile>
@@ -422,6 +425,66 @@
     </ClCompile>
     <ClCompile Include="R6-11.cpp">
       <Filter>소스 파일\review\L6</Filter>
+    </ClCompile>
+    <ClCompile Include="5-11.cpp">
+      <Filter>소스 파일\LV5</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-1.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-2.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="Lv7-3.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-4.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-5.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-6.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-7.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-8다시.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-9.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-10.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-11다시.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV7-12.cpp">
+      <Filter>소스 파일\LV7</Filter>
+    </ClCompile>
+    <ClCompile Include="R7-1.cpp">
+      <Filter>소스 파일\L7</Filter>
+    </ClCompile>
+    <ClCompile Include="R7-2.cpp">
+      <Filter>소스 파일\L7</Filter>
+    </ClCompile>
+    <ClCompile Include="R7-3.cpp">
+      <Filter>소스 파일\L7</Filter>
+    </ClCompile>
+    <ClCompile Include="R7-4다시.cpp">
+      <Filter>소스 파일\L7</Filter>
+    </ClCompile>
+    <ClCompile Include="R7-5.cpp">
+      <Filter>소스 파일\L7</Filter>
+    </ClCompile>
+    <ClCompile Include="R7-6.cpp">
+      <Filter>소스 파일\L7</Filter>
+    </ClCompile>
+    <ClCompile Include="R7-7다시.cpp">
+      <Filter>소스 파일\L7</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

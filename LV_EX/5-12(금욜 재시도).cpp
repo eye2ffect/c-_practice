@@ -22,10 +22,7 @@ int main()
 		std::cin >> arr[i];
 	} //3회입력
 
-	for (int i=0; i <= 2; i++)
-	{
-		std::cout << arr[i];
-	}//3회출력
+
 	
 	for (int i = 0; i <= 2; i++)
 	{

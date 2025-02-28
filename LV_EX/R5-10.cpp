@@ -20,12 +20,12 @@ int main()
 		}
 	}
 
-	else if (a == 4)
+	else if (a == 3)
 	{
 
 		for (int i = 0; i <= 5; i++)
 		{
-			arr[i] = a * 1 + 3;
+			arr[i] = a * i + 3;
 			std::cout << " " << arr[i];
 		}
 	}
