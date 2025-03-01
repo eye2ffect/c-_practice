@@ -4,21 +4,17 @@ int main()
 {
 	int arr[3][2] = { 0 };
 
-
 	for (int i = 0; i < 3; i++)
 	{
-		
+
 		for (int j = 0; j < 2; j++)
 		{
-			
+
 			std::cin >> arr[i][j];
-			
+			arr[i][j] +=2;
 		}
-		
-	}//입력
 
-
-
+	}
 
 	for (int i = 0; i < 3; i++)
 	{
@@ -27,13 +23,7 @@ int main()
 			std::cout << arr[i][j] << " ";
 		}
 		std::cout << std::endl;
-	}//출력 
-
-
-
-
-
-
+	}
 
 
 	return 0;

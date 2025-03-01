@@ -3,34 +3,39 @@
 int main()
 
 {
-	int a = 0;//Â¦¼öÇÔ
-	int b = 0; //È¦¼öÇÕ 
+	int arr[3][3] = {
 
-	int arr[3][3] =
-	{
 		{3,4,1},
 		{2,1,4},
 		{3,3,0}
+
 	};
 
-	for (int a = 0; a < 3; a++)
+	int count = 0;//Â¦¼ö
+	int count2 = 0; //È¦¼ö
+
+	//¸ÕÀú¼øÈ¸ÇÏ°í,if·Î Á¶°ÇÀ» °É¾îÁÖ°í Â¦È¦¿¡ ±×¸®°í
+	//Ä«¿îÅÍ °É¾îÁÖ¸é µÉµí?
+
+	for (int i = 0; i < 3; i++)
 	{
-		for (int b = 0; b < 3; b++)
+		for (int j = 0; j < 3; j++)
 		{
-			if (arr[a][b] % 2 == 0)
+			if (arr[i][j] % 2 == 0)
 			{
-				a += arr[a][b];
+				count++;
 			}
-			else {
-				b += arr[a][b];
+
+			else
+			{
+				count2++;
 			}
-		   
+
 		}
-		
 	}
 
-	std::cout <<"Â¦¼ö : " << a;
-	std::cout << "È¦¼ö : " << b;
+	 std::cout << "Â¦¼ö :" << count << std::endl;
+	 std::cout << "È¦¼ö :" << count2;
 
 
 
