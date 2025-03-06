@@ -49,8 +49,14 @@
     <Filter Include="소스 파일\LV7">
       <UniqueIdentifier>{452a3058-4dce-46f5-8f50-dadcda8d4b40}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\L7">
+    <Filter Include="소스 파일\LV8">
+      <UniqueIdentifier>{a9b98f5c-effa-46ab-b127-bf8b00572d57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\review\L7">
       <UniqueIdentifier>{428caa72-5b7c-4961-adb3-abaeb303b0fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV9">
+      <UniqueIdentifier>{bcba631e-aacc-411f-b27f-531464ea9b4e}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -466,25 +472,79 @@
       <Filter>소스 파일\LV7</Filter>
     </ClCompile>
     <ClCompile Include="R7-1.cpp">
-      <Filter>소스 파일\L7</Filter>
+      <Filter>소스 파일\review\L7</Filter>
     </ClCompile>
     <ClCompile Include="R7-2.cpp">
-      <Filter>소스 파일\L7</Filter>
+      <Filter>소스 파일\review\L7</Filter>
     </ClCompile>
     <ClCompile Include="R7-3.cpp">
-      <Filter>소스 파일\L7</Filter>
+      <Filter>소스 파일\review\L7</Filter>
     </ClCompile>
     <ClCompile Include="R7-4다시.cpp">
-      <Filter>소스 파일\L7</Filter>
+      <Filter>소스 파일\review\L7</Filter>
     </ClCompile>
     <ClCompile Include="R7-5.cpp">
-      <Filter>소스 파일\L7</Filter>
+      <Filter>소스 파일\review\L7</Filter>
     </ClCompile>
     <ClCompile Include="R7-6.cpp">
-      <Filter>소스 파일\L7</Filter>
+      <Filter>소스 파일\review\L7</Filter>
     </ClCompile>
     <ClCompile Include="R7-7다시.cpp">
-      <Filter>소스 파일\L7</Filter>
+      <Filter>소스 파일\review\L7</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8-3.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8-4.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8-5.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8-6.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8-7.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8-8.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8-9.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8-10.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="LV8-11.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="R8-1.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="R8-2.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="R8-3.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="R8-4.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="R8-5.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="R8-6.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="R8-7.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="R8-8다시.cpp">
+      <Filter>소스 파일\LV8</Filter>
+    </ClCompile>
+    <ClCompile Include="R8-9다.cpp">
+      <Filter>소스 파일\LV8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
