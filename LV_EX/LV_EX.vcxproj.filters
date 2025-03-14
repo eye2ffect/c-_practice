@@ -58,7 +58,10 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
-    <Filter Include="소스 파일\LV10,11">
+    <Filter Include="소스 파일\LV11">
+      <UniqueIdentifier>{6dd2f32b-fc29-4445-9c26-5fe42b0d7a7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\LV10">
       <UniqueIdentifier>{e060beb4-0561-46b4-809f-82004f0c040a}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -612,8 +615,68 @@
     <ClCompile Include="8-2.cpp">
       <Filter>소스 파일\LV8</Filter>
     </ClCompile>
-    <ClCompile Include="R10-1.cpp">
-      <Filter>소스 파일\LV10,11</Filter>
+    <ClCompile Include="10-1.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-2.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-3.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-4질.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-5.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-6.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-7.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-8.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-9다시.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-10.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-11.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="10-12다시.cpp">
+      <Filter>소스 파일\LV10</Filter>
+    </ClCompile>
+    <ClCompile Include="11-1.cpp">
+      <Filter>소스 파일\LV11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-2.cpp">
+      <Filter>소스 파일\LV11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-3.cpp">
+      <Filter>소스 파일\LV11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-4.cpp">
+      <Filter>소스 파일\LV11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-5.cpp">
+      <Filter>소스 파일\LV11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-6다시.cpp">
+      <Filter>소스 파일\LV11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-7.cpp">
+      <Filter>소스 파일\LV11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-8.cpp">
+      <Filter>소스 파일\LV11</Filter>
+    </ClCompile>
+    <ClCompile Include="11-9.cpp">
+      <Filter>소스 파일\LV11</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
